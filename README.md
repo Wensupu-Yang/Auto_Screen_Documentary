@@ -10,3 +10,6 @@ This is a Mac Script Application that automatically take screenshot every 30 sec
 
 3. Change the interval on the run function 
 > 		delay 30
+
+## Disclaimer
+If you work with confidenital or sensitive information, use at your own risk. Although all data is store on your local device, if it get hack, there might cause problem. 
